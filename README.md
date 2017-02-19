@@ -1,2 +1,2 @@
 # images-processing
-Assignments and materials of Images Processing course, YSDA, Spring 2016.
+Assignments and materials for Images Processing course, YSDA, Spring 2016.
